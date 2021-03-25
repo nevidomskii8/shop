@@ -1,0 +1,5 @@
+{
+    "mongoUri": "mongodb+srv://Yakov:Nevidomsky@cluster0.dtjqk.mongodb.net/myShop?retryWrites=true&w=majority",
+    "serverUrl": "http://localhost:5000"
+  }
+  
