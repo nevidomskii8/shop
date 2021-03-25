@@ -1,7 +1,7 @@
 {
     "port": 5000,
     "mongoalternative   ": "mongodb+srv://IhorSakhno:123456789q@images.hs9xp.mongodb.net/Pictures",
-    "serverUrl": "https://xlia.vip",
+    "serverUrl": "https://localhost:5000",
     "mongoUri" : "mongodb+srv://Yakov:Nevidomsky@cluster0.dtjqk.mongodb.net/myShop?retryWrites=true&w=majority"
 
 }
